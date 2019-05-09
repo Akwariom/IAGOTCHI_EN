@@ -1,0 +1,3 @@
+Macmini IAGOTCHI 
+Wifi Adresse MAC : 1c:36:bb:f0:08:26
+Ethernet : Adresse MAC : 78:7b:8a:cf:38:52
