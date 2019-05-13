@@ -7053,7 +7053,7 @@
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
 													"style" : "",
-													"text" : "20190509_111447"
+													"text" : "20190513_205836"
 												}
 
 											}
@@ -7753,7 +7753,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-2",
@@ -17853,9 +17852,9 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 569.5, 568.0, 116.0, 22.0 ],
+									"patching_rect" : [ 569.5, 568.0, 140.0, 22.0 ],
 									"style" : "",
-									"text" : "refer iagoKeyWords"
+									"text" : "refer iagoKeyWords_EN"
 								}
 
 							}
@@ -17863,7 +17862,7 @@
 								"box" : 								{
 									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"bordercolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-									"cols" : 1,
+									"cols" : 3,
 									"fontface" : 0,
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
@@ -17880,7 +17879,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 336.5, 40.0, 153.5, 348.742859 ],
 									"readonly" : 1,
-									"rows" : 1,
+									"rows" : 22,
 									"sccolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"selmode" : 0,
 									"sgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -19444,8 +19443,7 @@
 									"patching_rect" : [ 390.5, 489.85907, 50.0, 22.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 295.5, 482.25, 39.0, 22.0 ],
-									"style" : "",
-									"text" : "300"
+									"style" : ""
 								}
 
 							}
@@ -20274,7 +20272,7 @@
 								"box" : 								{
 									"bgcolor" : [ 0.095481, 0.100396, 0.100293, 1.0 ],
 									"bordercolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-									"cols" : 2,
+									"cols" : 1,
 									"fgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"fontface" : 0,
 									"fontname" : "Arial",
@@ -20292,7 +20290,7 @@
 									"presentation" : 1,
 									"presentation_rect" : [ 172.75, 40.0, 153.5, 348.742859 ],
 									"readonly" : 1,
-									"rows" : 7,
+									"rows" : 1,
 									"sccolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"selmode" : 0,
 									"sgcolor" : [ 0.862745, 0.870588, 0.878431, 1.0 ],
@@ -20534,7 +20532,7 @@
 											}
 , 											{
 												"box" : 												{
-													"cols" : 2,
+													"cols" : 1,
 													"fontface" : 0,
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
@@ -20544,7 +20542,7 @@
 													"numoutlets" : 4,
 													"outlettype" : [ "list", "", "", "" ],
 													"patching_rect" : [ 248.0, 320.0, 160.0, 331.0 ],
-													"rows" : 7
+													"rows" : 1
 												}
 
 											}
@@ -20573,7 +20571,7 @@
 													"numoutlets" : 4,
 													"outlettype" : [ "list", "", "", "" ],
 													"patching_rect" : [ 30.0, 292.0, 161.25, 427.0 ],
-													"rows" : 17
+													"rows" : 22
 												}
 
 											}
@@ -20717,8 +20715,12 @@
 , 											{
 												"box" : 												{
 													"coll_data" : 													{
-														"count" : 17,
+														"count" : 22,
 														"data" : [ 															{
+																"key" : 1,
+																"value" : [ "death" ]
+															}
+, 															{
 																"key" : 2,
 																"value" : [ "exist" ]
 															}
@@ -20737,6 +20739,14 @@
 , 															{
 																"key" : 6,
 																"value" : [ "true" ]
+															}
+, 															{
+																"key" : 7,
+																"value" : [ "human" ]
+															}
+, 															{
+																"key" : 8,
+																"value" : [ "knowledge" ]
 															}
 , 															{
 																"key" : 9,
@@ -20759,6 +20769,10 @@
 																"value" : [ "will" ]
 															}
 , 															{
+																"key" : 14,
+																"value" : [ "power" ]
+															}
+, 															{
 																"key" : 15,
 																"value" : [ "world" ]
 															}
@@ -20773,6 +20787,10 @@
 , 															{
 																"key" : 18,
 																"value" : [ "morality" ]
+															}
+, 															{
+																"key" : 19,
+																"value" : [ "reality" ]
 															}
 , 															{
 																"key" : 20,
@@ -20919,8 +20937,12 @@
 , 											{
 												"box" : 												{
 													"coll_data" : 													{
-														"count" : 17,
+														"count" : 22,
 														"data" : [ 															{
+																"key" : 1,
+																"value" : [ "death" ]
+															}
+, 															{
 																"key" : 2,
 																"value" : [ "exist" ]
 															}
@@ -20939,6 +20961,14 @@
 , 															{
 																"key" : 6,
 																"value" : [ "true" ]
+															}
+, 															{
+																"key" : 7,
+																"value" : [ "human" ]
+															}
+, 															{
+																"key" : 8,
+																"value" : [ "knowledge" ]
 															}
 , 															{
 																"key" : 9,
@@ -20961,6 +20991,10 @@
 																"value" : [ "will" ]
 															}
 , 															{
+																"key" : 14,
+																"value" : [ "power" ]
+															}
+, 															{
 																"key" : 15,
 																"value" : [ "world" ]
 															}
@@ -20975,6 +21009,10 @@
 , 															{
 																"key" : 18,
 																"value" : [ "morality" ]
+															}
+, 															{
+																"key" : 19,
+																"value" : [ "reality" ]
 															}
 , 															{
 																"key" : 20,
@@ -25953,8 +25991,7 @@
 									"patching_rect" : [ 252.5, 489.85907, 50.0, 22.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 295.5, 440.75, 39.0, 22.0 ],
-									"style" : "",
-									"text" : "19"
+									"style" : ""
 								}
 
 							}
@@ -26383,8 +26420,12 @@
 														"boxes" : [ 															{
 																"box" : 																{
 																	"coll_data" : 																	{
-																		"count" : 17,
+																		"count" : 22,
 																		"data" : [ 																			{
+																				"key" : 1,
+																				"value" : [ "death" ]
+																			}
+, 																			{
 																				"key" : 2,
 																				"value" : [ "exist" ]
 																			}
@@ -26403,6 +26444,14 @@
 , 																			{
 																				"key" : 6,
 																				"value" : [ "true" ]
+																			}
+, 																			{
+																				"key" : 7,
+																				"value" : [ "human" ]
+																			}
+, 																			{
+																				"key" : 8,
+																				"value" : [ "knowledge" ]
 																			}
 , 																			{
 																				"key" : 9,
@@ -26425,6 +26474,10 @@
 																				"value" : [ "will" ]
 																			}
 , 																			{
+																				"key" : 14,
+																				"value" : [ "power" ]
+																			}
+, 																			{
 																				"key" : 15,
 																				"value" : [ "world" ]
 																			}
@@ -26439,6 +26492,10 @@
 , 																			{
 																				"key" : 18,
 																				"value" : [ "morality" ]
+																			}
+, 																			{
+																				"key" : 19,
+																				"value" : [ "reality" ]
 																			}
 , 																			{
 																				"key" : 20,
@@ -26719,8 +26776,12 @@
 , 															{
 																"box" : 																{
 																	"coll_data" : 																	{
-																		"count" : 17,
+																		"count" : 22,
 																		"data" : [ 																			{
+																				"key" : 1,
+																				"value" : [ "death" ]
+																			}
+, 																			{
 																				"key" : 2,
 																				"value" : [ "exist" ]
 																			}
@@ -26739,6 +26800,14 @@
 , 																			{
 																				"key" : 6,
 																				"value" : [ "true" ]
+																			}
+, 																			{
+																				"key" : 7,
+																				"value" : [ "human" ]
+																			}
+, 																			{
+																				"key" : 8,
+																				"value" : [ "knowledge" ]
 																			}
 , 																			{
 																				"key" : 9,
@@ -26761,6 +26830,10 @@
 																				"value" : [ "will" ]
 																			}
 , 																			{
+																				"key" : 14,
+																				"value" : [ "power" ]
+																			}
+, 																			{
 																				"key" : 15,
 																				"value" : [ "world" ]
 																			}
@@ -26775,6 +26848,10 @@
 , 																			{
 																				"key" : 18,
 																				"value" : [ "morality" ]
+																			}
+, 																			{
+																				"key" : 19,
+																				"value" : [ "reality" ]
 																			}
 , 																			{
 																				"key" : 20,
@@ -28658,8 +28735,12 @@
 , 											{
 												"box" : 												{
 													"coll_data" : 													{
-														"count" : 17,
+														"count" : 22,
 														"data" : [ 															{
+																"key" : 1,
+																"value" : [ "death" ]
+															}
+, 															{
 																"key" : 2,
 																"value" : [ "exist" ]
 															}
@@ -28678,6 +28759,14 @@
 , 															{
 																"key" : 6,
 																"value" : [ "true" ]
+															}
+, 															{
+																"key" : 7,
+																"value" : [ "human" ]
+															}
+, 															{
+																"key" : 8,
+																"value" : [ "knowledge" ]
 															}
 , 															{
 																"key" : 9,
@@ -28700,6 +28789,10 @@
 																"value" : [ "will" ]
 															}
 , 															{
+																"key" : 14,
+																"value" : [ "power" ]
+															}
+, 															{
 																"key" : 15,
 																"value" : [ "world" ]
 															}
@@ -28714,6 +28807,10 @@
 , 															{
 																"key" : 18,
 																"value" : [ "morality" ]
+															}
+, 															{
+																"key" : 19,
+																"value" : [ "reality" ]
 															}
 , 															{
 																"key" : 20,
@@ -39425,14 +39522,12 @@
 																"box" : 																{
 																	"dontreplace" : 1,
 																	"id" : "obj-38",
-																	"linecount" : 2,
 																	"maxclass" : "message",
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 221.5, 13.0, 90.0, 22.0 ],
-																	"style" : "",
-																	"text" : "yes that's it power"
+																	"style" : ""
 																}
 
 															}
@@ -41522,8 +41617,12 @@
 , 											{
 												"box" : 												{
 													"coll_data" : 													{
-														"count" : 17,
+														"count" : 22,
 														"data" : [ 															{
+																"key" : 1,
+																"value" : [ "death" ]
+															}
+, 															{
 																"key" : 2,
 																"value" : [ "exist" ]
 															}
@@ -41542,6 +41641,14 @@
 , 															{
 																"key" : 6,
 																"value" : [ "true" ]
+															}
+, 															{
+																"key" : 7,
+																"value" : [ "human" ]
+															}
+, 															{
+																"key" : 8,
+																"value" : [ "knowledge" ]
 															}
 , 															{
 																"key" : 9,
@@ -41564,6 +41671,10 @@
 																"value" : [ "will" ]
 															}
 , 															{
+																"key" : 14,
+																"value" : [ "power" ]
+															}
+, 															{
 																"key" : 15,
 																"value" : [ "world" ]
 															}
@@ -41578,6 +41689,10 @@
 , 															{
 																"key" : 18,
 																"value" : [ "morality" ]
+															}
+, 															{
+																"key" : 19,
+																"value" : [ "reality" ]
 															}
 , 															{
 																"key" : 20,
@@ -41892,8 +42007,12 @@
 , 																			{
 																				"box" : 																				{
 																					"coll_data" : 																					{
-																						"count" : 17,
+																						"count" : 22,
 																						"data" : [ 																							{
+																								"key" : 1,
+																								"value" : [ "death" ]
+																							}
+, 																							{
 																								"key" : 2,
 																								"value" : [ "exist" ]
 																							}
@@ -41912,6 +42031,14 @@
 , 																							{
 																								"key" : 6,
 																								"value" : [ "true" ]
+																							}
+, 																							{
+																								"key" : 7,
+																								"value" : [ "human" ]
+																							}
+, 																							{
+																								"key" : 8,
+																								"value" : [ "knowledge" ]
 																							}
 , 																							{
 																								"key" : 9,
@@ -41934,6 +42061,10 @@
 																								"value" : [ "will" ]
 																							}
 , 																							{
+																								"key" : 14,
+																								"value" : [ "power" ]
+																							}
+, 																							{
 																								"key" : 15,
 																								"value" : [ "world" ]
 																							}
@@ -41948,6 +42079,10 @@
 , 																							{
 																								"key" : 18,
 																								"value" : [ "morality" ]
+																							}
+, 																							{
+																								"key" : 19,
+																								"value" : [ "reality" ]
 																							}
 , 																							{
 																								"key" : 20,
@@ -41996,8 +42131,12 @@
 , 																			{
 																				"box" : 																				{
 																					"coll_data" : 																					{
-																						"count" : 17,
+																						"count" : 22,
 																						"data" : [ 																							{
+																								"key" : 1,
+																								"value" : [ "death" ]
+																							}
+, 																							{
 																								"key" : 2,
 																								"value" : [ "exist" ]
 																							}
@@ -42016,6 +42155,14 @@
 , 																							{
 																								"key" : 6,
 																								"value" : [ "true" ]
+																							}
+, 																							{
+																								"key" : 7,
+																								"value" : [ "human" ]
+																							}
+, 																							{
+																								"key" : 8,
+																								"value" : [ "knowledge" ]
 																							}
 , 																							{
 																								"key" : 9,
@@ -42038,6 +42185,10 @@
 																								"value" : [ "will" ]
 																							}
 , 																							{
+																								"key" : 14,
+																								"value" : [ "power" ]
+																							}
+, 																							{
 																								"key" : 15,
 																								"value" : [ "world" ]
 																							}
@@ -42052,6 +42203,10 @@
 , 																							{
 																								"key" : 18,
 																								"value" : [ "morality" ]
+																							}
+, 																							{
+																								"key" : 19,
+																								"value" : [ "reality" ]
 																							}
 , 																							{
 																								"key" : 20,
@@ -42221,8 +42376,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 78.0, 468.0, 50.0, 22.0 ],
-																	"style" : "",
-																	"text" : "8"
+																	"style" : ""
 																}
 
 															}
@@ -42299,8 +42453,12 @@
 , 																			{
 																				"box" : 																				{
 																					"coll_data" : 																					{
-																						"count" : 17,
+																						"count" : 22,
 																						"data" : [ 																							{
+																								"key" : 1,
+																								"value" : [ "death" ]
+																							}
+, 																							{
 																								"key" : 2,
 																								"value" : [ "exist" ]
 																							}
@@ -42319,6 +42477,14 @@
 , 																							{
 																								"key" : 6,
 																								"value" : [ "true" ]
+																							}
+, 																							{
+																								"key" : 7,
+																								"value" : [ "human" ]
+																							}
+, 																							{
+																								"key" : 8,
+																								"value" : [ "knowledge" ]
 																							}
 , 																							{
 																								"key" : 9,
@@ -42341,6 +42507,10 @@
 																								"value" : [ "will" ]
 																							}
 , 																							{
+																								"key" : 14,
+																								"value" : [ "power" ]
+																							}
+, 																							{
 																								"key" : 15,
 																								"value" : [ "world" ]
 																							}
@@ -42355,6 +42525,10 @@
 , 																							{
 																								"key" : 18,
 																								"value" : [ "morality" ]
+																							}
+, 																							{
+																								"key" : 19,
+																								"value" : [ "reality" ]
 																							}
 , 																							{
 																								"key" : 20,
@@ -42516,8 +42690,7 @@
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 329.0, 468.0, 305.0, 22.0 ],
-																	"style" : "",
-																	"text" : "yes that's it power"
+																	"style" : ""
 																}
 
 															}
@@ -42525,14 +42698,12 @@
 																"box" : 																{
 																	"dontreplace" : 1,
 																	"id" : "obj-50",
-																	"linecount" : 2,
 																	"maxclass" : "message",
 																	"numinlets" : 2,
 																	"numoutlets" : 1,
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 198.0, 466.0, 46.0, 22.0 ],
-																	"style" : "",
-																	"text" : "knowledge"
+																	"style" : ""
 																}
 
 															}
