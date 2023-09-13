@@ -1,4 +1,5 @@
-
+*DS_Store
+*.pyc
 IAGOVOIX/samples/Processed/Crop/sweep_intro.aif
 IAGOVOIX/samples/Processed/Crop/sweep_intro.aif.asd
 IAGOVOIX/samples/Processed/Freeze/Freeze 2-Audio.wav
@@ -45,16 +46,12 @@ IAGOVOIX/.DS_Store
 IAGOVOIX/Ableton Project Info/Project8_1.cfg
 IAGOVOIX/iagoVoix.als
 IAGOVOIX/Icon
-IAGOVOIX/Presets/.DS_Store
-IAGOVOIX/Presets/Audio Effects/.DS_Store
 IAGOVOIX/Presets/Audio Effects/Max Audio Effect/.DS_Store
 IAGOVOIX/Presets/Audio Effects/Max Audio Effect/art_des_bruits/.DS_Store
 IAGOVOIX/Presets/Audio Effects/Max Audio Effect/art_des_bruits/clics&cuts/adb.stutter.v2.amxd
 IAGOVOIX/Presets/Audio Effects/Max Audio Effect/art_des_bruits/pitch follower/adb.retune-2.amxd
 IAGOVOIX/Presets/Audio Effects/Max Audio Effect/Imported/Convolution Reverb.amxd
 IAGOVOIX/Presets/Audio Effects/Max Audio Effect/prosodieIAGO.amxd
-IAGOVOIX/samples/.DS_Store
-IAGOVOIX/samples/Imported/.DS_Store
 IAGOVOIX/samples/Imported/0001 VOIXOUT.aif
 IAGOVOIX/samples/Imported/0001 VOIXOUT.aif.asd
 IAGOVOIX/samples/Imported/0003 VideoRET.aif
@@ -102,3 +99,4 @@ IAGOVOIX/samples/Processed/Crop/Rec-15.09.30-18h07m28s.aif
 IAGOVOIX/samples/Processed/Crop/Rec-15.09.30-18h07m28s.aif.asd
 IAGOVOIX/samples/Recorded/0007 VOIX IN.aif.asd
 IAGOVOIX.zip
+.DS_Store

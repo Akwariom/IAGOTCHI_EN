@@ -1,5 +1,7 @@
 from __future__ import print_function
-import bottle, osc, sys
+import bottle, sys
+from pyosc import Server
+from pyosc import Client
 
 class ASR:
     global is_restart_needed
@@ -8,7 +10,9 @@ class ASR:
         self.osc_server_port = osc_server_port
         self.osc_client_host = osc_client_host
         self.osc_client_port = osc_client_port
-        osc.setup(osc_client_host, osc_client_port)
+        self.osc_server = Server('127.0.0.1', osc_server_port, self.osc_server_message)
+        self.osc_client = Client(osc_client_host, osc_client_port)
+        #osc.setup(osc_client_host, osc_client_port)
 
         self.http_server_port = http_server_port
         self.silent = True
@@ -18,8 +22,8 @@ class ASR:
         self.http_server = bottle.Bottle()
 
         self.silent = False
-        self.osc_server = osc.Server(host='0.0.0.0', port=self.osc_server_port, callback=self.osc_server_message)
-        self.osc_server.run(non_blocking=True)
+        #self.osc_server = osc.Server(host='0.0.0.0', port=self.osc_server_port, callback=self.osc_server_message)
+        #self.osc_server.run(non_blocking=True)
 
         print()
         print('*** Please open chrome at http://127.0.0.1:%d' % self.http_server_port)
@@ -30,19 +34,19 @@ class ASR:
         self.http_server.get('/need_restart', callback=self.need_restart)
         self.http_server.run(host='localhost', port=self.http_server_port, quiet=True)
 
-    def osc_server_message(self, message):
+    def osc_server_message(self, address, *args):
         # print('OSC message = "%s"' % message)
-        if message == '/record':
+        if address == '/record':
             self.silent = False
-        elif message == '/pause':
+        elif address == '/pause':
             self.silent = True
-        elif message == '/restart':
+        elif address == '/restart':
             # self.osc_server.shutdown()
             # os.execlp(sys.executable, sys.executable, *sys.argv)
             self.is_restart_needed = True
             self.silent = False
-        elif message == '/exit':
-            self.osc_server.shutdown()
+        elif address == '/exit':
+            #self.osc_server.shutdown()
             self.http_server.close()
             sys.exit(0)
 
@@ -50,7 +54,9 @@ class ASR:
         result = {'transcript': bottle.request.forms.getunicode('transcript'),
                 'confidence': float(bottle.request.forms.get('confidence', 0)),
                 'sentence': int(bottle.request.forms.sentence)}
-        mess = ("   " + result['transcript'] + "   ").encode('utf-8').strip('<eos>')
+        #print(result)
+        #print(result['transcript'])
+        mess = result['transcript']# + "   ")#.encode('utf-8').strip('<eos>')
         if self.silent == True:
             if result['sentence'] == 1:
                 print("(pause)phrase  _" + mess)
@@ -60,11 +66,11 @@ class ASR:
             return 'ok'
         if result['sentence'] == 1:
             print("phrase  _" + mess)
-            osc.client.send_sentence(self.sentence_num, mess)
+            self.osc_client.send("/sentence", mess)
             self.sentence_num += 1
         else:
             print("mots    _" + mess)
-            osc.client.send_words(self.sentence_num, mess)
+            self.osc_client.send("/words", mess)
         return 'ok'
 
     def need_restart(self):

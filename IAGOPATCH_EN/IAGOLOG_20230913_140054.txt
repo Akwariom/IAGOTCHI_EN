@@ -1,0 +1,43 @@
+20230913_140054 USER_reco hello hello
+20230913_140054 USER_name USER
+20230913_140054 IAGOTCHI_welcome aua ua uauuau auaiiau IIIAAGOTCHI! Who woke me up ? Hello
+20230913_140107 USER_reco it's me
+20230913_140107 IAGOTCHI_welcome What's your name ?
+20230913_140113 USER_reco  Leo
+20230913_140113 USER_name  Leo
+20230913_140113 IAGOTCHI_welcome You are  Leo ? Hello  Leo. Do you want to chat with me?
+20230913_140122 USER_reco  yes do you do some songs
+20230913_140122 IAGOTCHI_chanson Do you want a song ?
+20230913_140128 USER_reco I'd love to
+20230913_140128 IAGOTCHI_chanson It's beautiful listen :
+20230913_140203 IAGOTCHI_chanson It's beautifull don't you think ?
+20230913_140213 USER_reco  yes it's beautiful have you got another one
+20230913_140213 USER_chatbot  yes it's beautiful have you got another one
+20230913_140215 IAGOTCHI_chatbot Do you know a poem ?
+20230913_140221 USER_reco  no do you
+20230913_140228 USER_reco  do you know poems
+20230913_140234 IAGOTCHI_poem Thank you for this poetry Leo
+20230913_140240 IAGOTCHI_retalk Sometimes I forget the meaning of words. Don't you? Do you?
+20230913_140306 USER_reco do you know some poetry
+20230913_140306 IAGOTCHI_poem Do you want a poem ?
+20230913_140312 USER_reco  yes
+20230913_140312 IAGOTCHI_poem Ok I am going to improvise one for you :
+20230913_140320 IAGOTCHI_generator Burn the mania of thought rose to the show in vain you propose.Proud philosopher to follow the purpose
+20230913_140339 USER_reco can you do me another
+20230913_140340 IAGOTCHI_generator Take advantage of the street is the guillotined world refusal and which causes me that the outside world
+20230913_140356 USER_reco beautiful do you know another song
+20230913_140356 IAGOTCHI_generator wet from the outside world everything does not confuse with candor the void that immense atrocious
+20230913_140412 USER_reco do you know how to sing
+20230913_140412 IAGOTCHI_retalk We've been talking for a while now and I still don't understand the meaninng of life. Can you answer me?
+20230913_140427 USER_reco I don't do you know music
+20230913_140427 IAGOTCHI_chanson Do you want a song ?
+20230913_140433 USER_reco  yes
+20230913_140433 IAGOTCHI_chanson This one is for you :
+20230913_140439 USER_reco  thank you
+20230913_140509 IAGOTCHI_retalk It seems that this silence helped us both analyse the beginning of our conversation with more serenity. Let's go back to it no?
+20230913_140534 IAGOTCHI_chanson It's beautifull don't you think ?
+20230913_140546 USER_reco goodbye
+20230913_140546 IAGOTCHI_end Are you leaving ? Well...
+20230913_140549 IAGOTCHI_end Thanks for your words  Leo. Talk to you soon
+20230913_140549 USER_name USER
+20230913_140625 IAGOTCHI_retalk It seems you don't care about any of my thoughts but i need to feed on your words

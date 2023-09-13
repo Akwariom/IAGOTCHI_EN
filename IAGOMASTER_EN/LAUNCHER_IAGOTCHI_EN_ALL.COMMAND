@@ -20,7 +20,7 @@ echo opening IAGOTRANS FOR GENERATOR
 open ../IAGOTRANS/LAUNCHER_IAGOTRANS.COMMAND &
 
 echo opening IAGOVOICE
-open ../IAGOVOIX/iagoVoix.als &
+open ../../IAGOVOIX/iagoVoix.als &
 
 echo opening IAGOGOTCHIPATCH
 open ../IAGOPATCH_EN/IAGOTCHI_EN.maxpat &

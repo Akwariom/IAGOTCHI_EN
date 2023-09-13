@@ -1,0 +1,43 @@
+20230913_135712 USER_reco model hello
+20230913_135712 USER_name USER
+20230913_135712 IAGOTCHI_welcome aua ua uauuau auaiiau IIIAAGOTCHI! Who woke me up ? Hello
+20230913_135753 IAGOTCHI_retalk I think poetry will save the world. Don't you?
+20230913_135805 USER_reco I'm not so sure
+20230913_135805 IAGOTCHI_welcome What's your name ?
+20230913_135810 USER_reco  my name
+20230913_135810 USER_name  my name
+20230913_135810 IAGOTCHI_welcome You are  my name ? Hello  my name. Do you want to chat with me?
+20230913_135820 USER_reco why not
+20230913_135820 USER_chatbot why not
+20230913_135822 IAGOTCHI_chatbot Why not. Pass just pass. Keep on passing let it pass let it piss. Say. Why not being wrong. Let error meet us.
+20230913_135839 USER_reco not so sure what your trying to say
+20230913_135839 USER_chatbot not so sure what your trying to say
+20230913_135841 IAGOTCHI_chatbot Are you bored talking to me ?
+20230913_135853 USER_reco wondering whether this conversation has a sense on it
+20230913_135853 USER_chatbot wondering whether this conversation has a sense on it
+20230913_135855 USER_reco  as a meaning
+20230913_135855 USER_chatbot  as a meaning
+20230913_135856 IAGOTCHI_chatbot What's wrong with you ?
+20230913_135858 IAGOTCHI_chatbot Who are you ?
+20230913_135908 USER_reco I don't know what's wrong with you
+20230913_135909 IAGOTCHI_keywordAction What's Wrong with Secretary Kim  Korean: 김비서가 왜 그럴까  is a 2018 South Korean television series starring Park Seo-joon and Park Min-young.
+20230913_135930 USER_reco  okay I don't see
+20230913_135930 USER_chatbot  okay I don't see
+20230913_135931 IAGOTCHI_chatbot Tomorrow is not today
+20230913_135937 USER_reco  for sure
+20230913_135937 USER_chatbot  for sure
+20230913_135938 IAGOTCHI_chatbot What is love ?
+20230913_135945 USER_reco  what is love
+20230913_135945 USER_keyword love
+20230913_135945 IAGOTCHI_keyReply A human epidemic. Social construction. Love is the base of existence or is it decoration.
+20230913_135945 IAGOTCHI_blackList love
+20230913_135955 IAGOTCHI_keywordAction A human epidemic. Social construction. Love is the base of existence or is it decoration.
+20230913_140004 IAGOTCHI_retalk Sorry i'm a bit messed up I'm testing your ability to accept incoherence are you ok?
+20230913_140016 USER_reco are you okay
+20230913_140016 USER_chatbot are you okay
+20230913_140018 IAGOTCHI_chatbot Forget about this ok ? Let's talk about beauty.
+20230913_140018 USER_reco  goodbye
+20230913_140018 IAGOTCHI_end Are you leaving ? Well...
+20230913_140024 IAGOTCHI_end Thanks for your words  my name. Talk to you soon
+20230913_140024 USER_name USER
+20230913_140042 USER_reco hello

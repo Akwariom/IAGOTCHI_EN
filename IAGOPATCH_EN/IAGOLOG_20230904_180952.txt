@@ -1,0 +1,31 @@
+20230904_180952 USER_reco hello
+20230904_180952 USER_name USER
+20230904_180952 IAGOTCHI_welcome aua ua uauuau auaiiau IIIAAGOTCHI! Who woke me up ? Hello
+20230904_181012 USER_reco hello hello
+20230904_181012 IAGOTCHI_welcome What's your name ?
+20230904_181044 IAGOTCHI_retalk I see you appreciate silence.me too.
+20230904_181105 USER_reco okay
+20230904_181105 USER_name okay
+20230904_181105 IAGOTCHI_welcome You are okay ? Hello okay. Do you want to chat with me?
+20230904_181141 IAGOTCHI_retalk I think poetry will save the world. Don't you?
+20230904_181213 USER_reco it appears here
+20230904_181213 USER_chatbot it appears here
+20230904_181215 IAGOTCHI_chatbot Do you feel good ?
+20230904_181222 USER_reco LEGO plastic
+20230904_181222 USER_chatbot LEGO plastic
+20230904_181222 IAGOTCHI_chatbot Can we play ?
+20230904_181324 IAGOTCHI_retalk It seems you don't care about any of my thoughts but i need to feed on your words
+20230904_181337 USER_reco okay that said you know
+20230904_181343 USER_reco it's good and Leo
+20230904_181343 USER_chatbot it's good and Leo
+20230904_181344 IAGOTCHI_chatbot Time flies more and more
+20230904_181414 USER_reco okay
+20230904_181414 USER_chatbot okay
+20230904_181414 IAGOTCHI_chatbot I learn well at least I try.
+20230904_181449 IAGOTCHI_retalk Ooooooooooooooo.Aiaiaiaiaiaiaiaiaiai.
+20230904_181458 IAGOTCHI_end Puffff too many words aaaaaah putting myself in stand-by to organise them
+20230904_181506 IAGOTCHI_end Thanks for sharing the most precious and irreplaceable of you, your time. Now I need to think in silence. Pleased to meet you okay. Good bye
+20230904_181506 USER_name USER
+20230904_181633 USER_reco Moira
+20230904_181655 USER_reco here
+20230904_181733 USER_reco okay
