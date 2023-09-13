@@ -116,7 +116,7 @@
 									"saved_object_attributes" : 									{
 										"parameter_enable" : 1,
 										"patchername" : "adb.retune-2.amxd",
-										"patchername_fallback" : "~/Desktop/IAGOSND/adb.retune-2.amxd"
+										"patchername_fallback" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN/adb.retune-2.amxd"
 									}
 ,
 									"snapshot" : 									{
@@ -130,7 +130,7 @@
 										"embed" : 1,
 										"snapshot" : 										{
 											"name" : "adb.retune-2.amxd",
-											"origname" : "~/Desktop/IAGOSND/adb.retune-2.amxd",
+											"origname" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN/adb.retune-2.amxd",
 											"valuedictionary" : 											{
 												"parameter_values" : 												{
 													"Ambiance" : -10.0,
@@ -165,7 +165,7 @@
 													"embed" : 0,
 													"snapshot" : 													{
 														"name" : "adb.retune-2.amxd",
-														"origname" : "~/Desktop/IAGOSND/adb.retune-2.amxd",
+														"origname" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN/adb.retune-2.amxd",
 														"valuedictionary" : 														{
 															"parameter_values" : 															{
 																"Ambiance" : -10.0,
@@ -1478,7 +1478,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 811.0, 507.0, 50.0, 22.0 ],
-									"text" : "50."
+									"text" : "-50."
 								}
 
 							}
@@ -1670,6 +1670,8 @@
 									"patching_rect" : [ 1007.0, 536.0, 48.0, 136.0 ],
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
+											"parameter_initial" : [ 4 ],
+											"parameter_initial_enable" : 1,
 											"parameter_longname" : "songs",
 											"parameter_mmax" : 6.0,
 											"parameter_mmin" : -70.0,
@@ -4286,8 +4288,8 @@
 									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 4,
-									"outlettype" : [ "", "", "", "" ],
+									"numoutlets" : 3,
+									"outlettype" : [ "", "", "" ],
 									"patching_rect" : [ 205.0, 135.0, 107.0, 35.0 ],
 									"text" : "OSC-route /result /noresult /ready"
 								}
@@ -4310,8 +4312,8 @@
 									"id" : "obj-5",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 2,
-									"outlettype" : [ "", "" ],
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
 									"patching_rect" : [ 205.0, 92.0, 95.0, 22.0 ],
 									"text" : "OSC-route /wiki"
 								}
@@ -10150,7 +10152,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
-													"text" : "20230913_192953"
+													"text" : "20230913_200807"
 												}
 
 											}
@@ -10837,6 +10839,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-2",
@@ -22086,7 +22089,8 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 111.0, 489.859069999999974, 50.0, 22.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 293.5, 523.75, 41.0, 22.0 ]
+									"presentation_rect" : [ 293.5, 523.75, 41.0, 22.0 ],
+									"text" : "0"
 								}
 
 							}
@@ -23009,7 +23013,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 478.0, 79.0, 999.0, 721.0 ],
+										"rect" : [ 478.0, 87.0, 999.0, 721.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -23215,14 +23219,14 @@
 , 											{
 												"box" : 												{
 													"coll_data" : 													{
-														"count" : 22,
+														"count" : 23,
 														"data" : [ 															{
 																"key" : 0,
 																"value" : [ "the life" ]
 															}
 , 															{
 																"key" : 1,
-																"value" : [ "the death" ]
+																"value" : [ "death" ]
 															}
 , 															{
 																"key" : 2,
@@ -23250,11 +23254,15 @@
 															}
 , 															{
 																"key" : 8,
-																"value" : [ "the knowledge;\r9, to", "know'" ]
+																"value" : [ "the knowledge" ]
+															}
+, 															{
+																"key" : 9,
+																"value" : [ "to know" ]
 															}
 , 															{
 																"key" : 10,
-																"value" : [ "the love" ]
+																"value" : [ "love" ]
 															}
 , 															{
 																"key" : 11,
@@ -23278,31 +23286,31 @@
 															}
 , 															{
 																"key" : 16,
-																"value" : [ "the chance" ]
+																"value" : [ "chance" ]
 															}
 , 															{
 																"key" : 17,
-																"value" : [ "the evil" ]
+																"value" : [ "evil" ]
 															}
 , 															{
 																"key" : 18,
-																"value" : [ "the morality" ]
+																"value" : [ "morality" ]
 															}
 , 															{
 																"key" : 19,
-																"value" : [ "the reality" ]
+																"value" : [ "the", "reality" ]
 															}
 , 															{
 																"key" : 20,
-																"value" : [ "the thought" ]
+																"value" : [ "the", "toughts" ]
 															}
 , 															{
 																"key" : 21,
-																"value" : [ "the consciousness" ]
+																"value" : [ "consciousness" ]
 															}
 , 															{
 																"key" : 22,
-																"value" : [ "the passion" ]
+																"value" : [ "passion" ]
 															}
  ]
 													}
@@ -28448,7 +28456,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 765.0, 270.0, 1266.0, 665.0 ],
+										"rect" : [ 380.0, 270.0, 1266.0, 665.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -30984,14 +30992,14 @@
 , 											{
 												"box" : 												{
 													"coll_data" : 													{
-														"count" : 22,
+														"count" : 23,
 														"data" : [ 															{
 																"key" : 0,
 																"value" : [ "the life" ]
 															}
 , 															{
 																"key" : 1,
-																"value" : [ "the death" ]
+																"value" : [ "death" ]
 															}
 , 															{
 																"key" : 2,
@@ -31019,11 +31027,15 @@
 															}
 , 															{
 																"key" : 8,
-																"value" : [ "the knowledge;\r9, to", "know'" ]
+																"value" : [ "the knowledge" ]
+															}
+, 															{
+																"key" : 9,
+																"value" : [ "to know" ]
 															}
 , 															{
 																"key" : 10,
-																"value" : [ "the love" ]
+																"value" : [ "love" ]
 															}
 , 															{
 																"key" : 11,
@@ -31047,31 +31059,31 @@
 															}
 , 															{
 																"key" : 16,
-																"value" : [ "the chance" ]
+																"value" : [ "chance" ]
 															}
 , 															{
 																"key" : 17,
-																"value" : [ "the evil" ]
+																"value" : [ "evil" ]
 															}
 , 															{
 																"key" : 18,
-																"value" : [ "the morality" ]
+																"value" : [ "morality" ]
 															}
 , 															{
 																"key" : 19,
-																"value" : [ "the reality" ]
+																"value" : [ "the", "reality" ]
 															}
 , 															{
 																"key" : 20,
-																"value" : [ "the thought" ]
+																"value" : [ "the", "toughts" ]
 															}
 , 															{
 																"key" : 21,
-																"value" : [ "the consciousness" ]
+																"value" : [ "consciousness" ]
 															}
 , 															{
 																"key" : 22,
-																"value" : [ "the passion" ]
+																"value" : [ "passion" ]
 															}
  ]
 													}
@@ -32884,95 +32896,95 @@
 																		"count" : 23,
 																		"data" : [ 																			{
 																				"key" : 0,
-																				"value" : [ "la vie" ]
+																				"value" : [ "the life" ]
 																			}
 , 																			{
 																				"key" : 1,
-																				"value" : [ "la mort" ]
+																				"value" : [ "death" ]
 																			}
 , 																			{
 																				"key" : 2,
-																				"value" : [ "exister" ]
+																				"value" : [ "to exist" ]
 																			}
 , 																			{
 																				"key" : 3,
-																				"value" : [ "la beauté" ]
+																				"value" : [ "the beauty" ]
 																			}
 , 																			{
 																				"key" : 4,
-																				"value" : [ "l'intelligence" ]
+																				"value" : [ "the intelligence" ]
 																			}
 , 																			{
 																				"key" : 5,
-																				"value" : [ "l'artificiel" ]
+																				"value" : [ "the artificial" ]
 																			}
 , 																			{
 																				"key" : 6,
-																				"value" : [ "le vrai" ]
+																				"value" : [ "the truth" ]
 																			}
 , 																			{
 																				"key" : 7,
-																				"value" : [ "l'humain" ]
+																				"value" : [ "the human" ]
 																			}
 , 																			{
 																				"key" : 8,
-																				"value" : [ "le savoir" ]
+																				"value" : [ "the knowledge" ]
 																			}
 , 																			{
 																				"key" : 9,
-																				"value" : [ "connaître" ]
+																				"value" : [ "to know" ]
 																			}
 , 																			{
 																				"key" : 10,
-																				"value" : [ "l'amour" ]
+																				"value" : [ "love" ]
 																			}
 , 																			{
 																				"key" : 11,
-																				"value" : [ "la poésie" ]
+																				"value" : [ "the poetry" ]
 																			}
 , 																			{
 																				"key" : 12,
-																				"value" : [ "le destin" ]
+																				"value" : [ "the destiny" ]
 																			}
 , 																			{
 																				"key" : 13,
-																				"value" : [ "la volonté" ]
+																				"value" : [ "the will" ]
 																			}
 , 																			{
 																				"key" : 14,
-																				"value" : [ "le pouvoir" ]
+																				"value" : [ "the power" ]
 																			}
 , 																			{
 																				"key" : 15,
-																				"value" : [ "le monde" ]
+																				"value" : [ "the world" ]
 																			}
 , 																			{
 																				"key" : 16,
-																				"value" : [ "le hasard" ]
+																				"value" : [ "chance" ]
 																			}
 , 																			{
 																				"key" : 17,
-																				"value" : [ "le mal" ]
+																				"value" : [ "evil" ]
 																			}
 , 																			{
 																				"key" : 18,
-																				"value" : [ "la morale" ]
+																				"value" : [ "morality" ]
 																			}
 , 																			{
 																				"key" : 19,
-																				"value" : [ "la réalité" ]
+																				"value" : [ "the", "reality" ]
 																			}
 , 																			{
 																				"key" : 20,
-																				"value" : [ "la pensée" ]
+																				"value" : [ "the", "toughts" ]
 																			}
 , 																			{
 																				"key" : 21,
-																				"value" : [ "la conscience" ]
+																				"value" : [ "consciousness" ]
 																			}
 , 																			{
 																				"key" : 22,
-																				"value" : [ "la passion" ]
+																				"value" : [ "passion" ]
 																			}
  ]
 																	}
@@ -32983,13 +32995,13 @@
 																	"numinlets" : 1,
 																	"numoutlets" : 4,
 																	"outlettype" : [ "", "", "", "" ],
-																	"patching_rect" : [ 50.0, 163.0, 235.0, 22.0 ],
+																	"patching_rect" : [ 50.0, 163.0, 257.0, 22.0 ],
 																	"saved_object_attributes" : 																	{
 																		"embed" : 1,
 																		"precision" : 6
 																	}
 ,
-																	"text" : "coll iagoKeyWordsWithArticles @embed 1"
+																	"text" : "coll iagoKeyWordsWithArticles_EN @embed 1"
 																}
 
 															}
@@ -33470,95 +33482,95 @@
 																						"count" : 23,
 																						"data" : [ 																							{
 																								"key" : 0,
-																								"value" : [ "la vie" ]
+																								"value" : [ "the life" ]
 																							}
 , 																							{
 																								"key" : 1,
-																								"value" : [ "la mort" ]
+																								"value" : [ "death" ]
 																							}
 , 																							{
 																								"key" : 2,
-																								"value" : [ "exister" ]
+																								"value" : [ "to exist" ]
 																							}
 , 																							{
 																								"key" : 3,
-																								"value" : [ "la beauté" ]
+																								"value" : [ "the beauty" ]
 																							}
 , 																							{
 																								"key" : 4,
-																								"value" : [ "l'intelligence" ]
+																								"value" : [ "the intelligence" ]
 																							}
 , 																							{
 																								"key" : 5,
-																								"value" : [ "l'artificiel" ]
+																								"value" : [ "the artificial" ]
 																							}
 , 																							{
 																								"key" : 6,
-																								"value" : [ "le vrai" ]
+																								"value" : [ "the truth" ]
 																							}
 , 																							{
 																								"key" : 7,
-																								"value" : [ "l'humain" ]
+																								"value" : [ "the human" ]
 																							}
 , 																							{
 																								"key" : 8,
-																								"value" : [ "le savoir" ]
+																								"value" : [ "the knowledge" ]
 																							}
 , 																							{
 																								"key" : 9,
-																								"value" : [ "connaître" ]
+																								"value" : [ "to know" ]
 																							}
 , 																							{
 																								"key" : 10,
-																								"value" : [ "l'amour" ]
+																								"value" : [ "love" ]
 																							}
 , 																							{
 																								"key" : 11,
-																								"value" : [ "la poésie" ]
+																								"value" : [ "the poetry" ]
 																							}
 , 																							{
 																								"key" : 12,
-																								"value" : [ "le destin" ]
+																								"value" : [ "the destiny" ]
 																							}
 , 																							{
 																								"key" : 13,
-																								"value" : [ "la volonté" ]
+																								"value" : [ "the will" ]
 																							}
 , 																							{
 																								"key" : 14,
-																								"value" : [ "le pouvoir" ]
+																								"value" : [ "the power" ]
 																							}
 , 																							{
 																								"key" : 15,
-																								"value" : [ "le monde" ]
+																								"value" : [ "the world" ]
 																							}
 , 																							{
 																								"key" : 16,
-																								"value" : [ "le hasard" ]
+																								"value" : [ "chance" ]
 																							}
 , 																							{
 																								"key" : 17,
-																								"value" : [ "le mal" ]
+																								"value" : [ "evil" ]
 																							}
 , 																							{
 																								"key" : 18,
-																								"value" : [ "la morale" ]
+																								"value" : [ "morality" ]
 																							}
 , 																							{
 																								"key" : 19,
-																								"value" : [ "la réalité" ]
+																								"value" : [ "the", "reality" ]
 																							}
 , 																							{
 																								"key" : 20,
-																								"value" : [ "la pensée" ]
+																								"value" : [ "the", "toughts" ]
 																							}
 , 																							{
 																								"key" : 21,
-																								"value" : [ "la conscience" ]
+																								"value" : [ "consciousness" ]
 																							}
 , 																							{
 																								"key" : 22,
-																								"value" : [ "la passion" ]
+																								"value" : [ "passion" ]
 																							}
  ]
 																					}
@@ -33569,13 +33581,13 @@
 																					"numinlets" : 1,
 																					"numoutlets" : 4,
 																					"outlettype" : [ "", "", "", "" ],
-																					"patching_rect" : [ 50.0, 163.0, 235.0, 22.0 ],
+																					"patching_rect" : [ 50.0, 163.0, 257.0, 22.0 ],
 																					"saved_object_attributes" : 																					{
 																						"embed" : 1,
 																						"precision" : 6
 																					}
 ,
-																					"text" : "coll iagoKeyWordsWithArticles @embed 1"
+																					"text" : "coll iagoKeyWordsWithArticles_EN @embed 1"
 																				}
 
 																			}
@@ -34725,95 +34737,95 @@
 																						"count" : 23,
 																						"data" : [ 																							{
 																								"key" : 0,
-																								"value" : [ "la vie" ]
+																								"value" : [ "the life" ]
 																							}
 , 																							{
 																								"key" : 1,
-																								"value" : [ "la mort" ]
+																								"value" : [ "death" ]
 																							}
 , 																							{
 																								"key" : 2,
-																								"value" : [ "exister" ]
+																								"value" : [ "to exist" ]
 																							}
 , 																							{
 																								"key" : 3,
-																								"value" : [ "la beauté" ]
+																								"value" : [ "the beauty" ]
 																							}
 , 																							{
 																								"key" : 4,
-																								"value" : [ "l'intelligence" ]
+																								"value" : [ "the intelligence" ]
 																							}
 , 																							{
 																								"key" : 5,
-																								"value" : [ "l'artificiel" ]
+																								"value" : [ "the artificial" ]
 																							}
 , 																							{
 																								"key" : 6,
-																								"value" : [ "le vrai" ]
+																								"value" : [ "the truth" ]
 																							}
 , 																							{
 																								"key" : 7,
-																								"value" : [ "l'humain" ]
+																								"value" : [ "the human" ]
 																							}
 , 																							{
 																								"key" : 8,
-																								"value" : [ "le savoir" ]
+																								"value" : [ "the knowledge" ]
 																							}
 , 																							{
 																								"key" : 9,
-																								"value" : [ "connaître" ]
+																								"value" : [ "to know" ]
 																							}
 , 																							{
 																								"key" : 10,
-																								"value" : [ "l'amour" ]
+																								"value" : [ "love" ]
 																							}
 , 																							{
 																								"key" : 11,
-																								"value" : [ "la poésie" ]
+																								"value" : [ "the poetry" ]
 																							}
 , 																							{
 																								"key" : 12,
-																								"value" : [ "le destin" ]
+																								"value" : [ "the destiny" ]
 																							}
 , 																							{
 																								"key" : 13,
-																								"value" : [ "la volonté" ]
+																								"value" : [ "the will" ]
 																							}
 , 																							{
 																								"key" : 14,
-																								"value" : [ "le pouvoir" ]
+																								"value" : [ "the power" ]
 																							}
 , 																							{
 																								"key" : 15,
-																								"value" : [ "le monde" ]
+																								"value" : [ "the world" ]
 																							}
 , 																							{
 																								"key" : 16,
-																								"value" : [ "le hasard" ]
+																								"value" : [ "chance" ]
 																							}
 , 																							{
 																								"key" : 17,
-																								"value" : [ "le mal" ]
+																								"value" : [ "evil" ]
 																							}
 , 																							{
 																								"key" : 18,
-																								"value" : [ "la morale" ]
+																								"value" : [ "morality" ]
 																							}
 , 																							{
 																								"key" : 19,
-																								"value" : [ "la réalité" ]
+																								"value" : [ "the", "reality" ]
 																							}
 , 																							{
 																								"key" : 20,
-																								"value" : [ "la pensée" ]
+																								"value" : [ "the", "toughts" ]
 																							}
 , 																							{
 																								"key" : 21,
-																								"value" : [ "la conscience" ]
+																								"value" : [ "consciousness" ]
 																							}
 , 																							{
 																								"key" : 22,
-																								"value" : [ "la passion" ]
+																								"value" : [ "passion" ]
 																							}
  ]
 																					}
@@ -34824,13 +34836,13 @@
 																					"numinlets" : 1,
 																					"numoutlets" : 4,
 																					"outlettype" : [ "", "", "", "" ],
-																					"patching_rect" : [ 50.0, 163.0, 235.0, 22.0 ],
+																					"patching_rect" : [ 50.0, 163.0, 257.0, 22.0 ],
 																					"saved_object_attributes" : 																					{
 																						"embed" : 1,
 																						"precision" : 6
 																					}
 ,
-																					"text" : "coll iagoKeyWordsWithArticles @embed 1"
+																					"text" : "coll iagoKeyWordsWithArticles_EN @embed 1"
 																				}
 
 																			}
@@ -35980,7 +35992,7 @@
 																		}
 ,
 																		"classnamespace" : "box",
-																		"rect" : [ 59.0, 103.0, 640.0, 480.0 ],
+																		"rect" : [ 221.0, 536.0, 640.0, 480.0 ],
 																		"bglocked" : 0,
 																		"openinpresentation" : 0,
 																		"default_fontsize" : 12.0,
@@ -36026,95 +36038,95 @@
 																						"count" : 23,
 																						"data" : [ 																							{
 																								"key" : 0,
-																								"value" : [ "la vie" ]
+																								"value" : [ "the life" ]
 																							}
 , 																							{
 																								"key" : 1,
-																								"value" : [ "la mort" ]
+																								"value" : [ "death" ]
 																							}
 , 																							{
 																								"key" : 2,
-																								"value" : [ "exister" ]
+																								"value" : [ "to exist" ]
 																							}
 , 																							{
 																								"key" : 3,
-																								"value" : [ "la beauté" ]
+																								"value" : [ "the beauty" ]
 																							}
 , 																							{
 																								"key" : 4,
-																								"value" : [ "l'intelligence" ]
+																								"value" : [ "the intelligence" ]
 																							}
 , 																							{
 																								"key" : 5,
-																								"value" : [ "l'artificiel" ]
+																								"value" : [ "the artificial" ]
 																							}
 , 																							{
 																								"key" : 6,
-																								"value" : [ "le vrai" ]
+																								"value" : [ "the truth" ]
 																							}
 , 																							{
 																								"key" : 7,
-																								"value" : [ "l'humain" ]
+																								"value" : [ "the human" ]
 																							}
 , 																							{
 																								"key" : 8,
-																								"value" : [ "le savoir" ]
+																								"value" : [ "the knowledge" ]
 																							}
 , 																							{
 																								"key" : 9,
-																								"value" : [ "connaître" ]
+																								"value" : [ "to know" ]
 																							}
 , 																							{
 																								"key" : 10,
-																								"value" : [ "l'amour" ]
+																								"value" : [ "love" ]
 																							}
 , 																							{
 																								"key" : 11,
-																								"value" : [ "la poésie" ]
+																								"value" : [ "the poetry" ]
 																							}
 , 																							{
 																								"key" : 12,
-																								"value" : [ "le destin" ]
+																								"value" : [ "the destiny" ]
 																							}
 , 																							{
 																								"key" : 13,
-																								"value" : [ "la volonté" ]
+																								"value" : [ "the will" ]
 																							}
 , 																							{
 																								"key" : 14,
-																								"value" : [ "le pouvoir" ]
+																								"value" : [ "the power" ]
 																							}
 , 																							{
 																								"key" : 15,
-																								"value" : [ "le monde" ]
+																								"value" : [ "the world" ]
 																							}
 , 																							{
 																								"key" : 16,
-																								"value" : [ "le hasard" ]
+																								"value" : [ "chance" ]
 																							}
 , 																							{
 																								"key" : 17,
-																								"value" : [ "le mal" ]
+																								"value" : [ "evil" ]
 																							}
 , 																							{
 																								"key" : 18,
-																								"value" : [ "la morale" ]
+																								"value" : [ "morality" ]
 																							}
 , 																							{
 																								"key" : 19,
-																								"value" : [ "la réalité" ]
+																								"value" : [ "the", "reality" ]
 																							}
 , 																							{
 																								"key" : 20,
-																								"value" : [ "la pensée" ]
+																								"value" : [ "the", "toughts" ]
 																							}
 , 																							{
 																								"key" : 21,
-																								"value" : [ "la conscience" ]
+																								"value" : [ "consciousness" ]
 																							}
 , 																							{
 																								"key" : 22,
-																								"value" : [ "la passion" ]
+																								"value" : [ "passion" ]
 																							}
  ]
 																					}
@@ -36125,13 +36137,13 @@
 																					"numinlets" : 1,
 																					"numoutlets" : 4,
 																					"outlettype" : [ "", "", "", "" ],
-																					"patching_rect" : [ 50.0, 163.0, 235.0, 22.0 ],
+																					"patching_rect" : [ 50.0, 163.0, 257.0, 22.0 ],
 																					"saved_object_attributes" : 																					{
 																						"embed" : 1,
 																						"precision" : 6
 																					}
 ,
-																					"text" : "coll iagoKeyWordsWithArticles @embed 1"
+																					"text" : "coll iagoKeyWordsWithArticles_EN @embed 1"
 																				}
 
 																			}
@@ -37054,95 +37066,95 @@
 																						"count" : 23,
 																						"data" : [ 																							{
 																								"key" : 0,
-																								"value" : [ "la vie" ]
+																								"value" : [ "the life" ]
 																							}
 , 																							{
 																								"key" : 1,
-																								"value" : [ "la mort" ]
+																								"value" : [ "death" ]
 																							}
 , 																							{
 																								"key" : 2,
-																								"value" : [ "exister" ]
+																								"value" : [ "to exist" ]
 																							}
 , 																							{
 																								"key" : 3,
-																								"value" : [ "la beauté" ]
+																								"value" : [ "the beauty" ]
 																							}
 , 																							{
 																								"key" : 4,
-																								"value" : [ "l'intelligence" ]
+																								"value" : [ "the intelligence" ]
 																							}
 , 																							{
 																								"key" : 5,
-																								"value" : [ "l'artificiel" ]
+																								"value" : [ "the artificial" ]
 																							}
 , 																							{
 																								"key" : 6,
-																								"value" : [ "le vrai" ]
+																								"value" : [ "the truth" ]
 																							}
 , 																							{
 																								"key" : 7,
-																								"value" : [ "l'humain" ]
+																								"value" : [ "the human" ]
 																							}
 , 																							{
 																								"key" : 8,
-																								"value" : [ "le savoir" ]
+																								"value" : [ "the knowledge" ]
 																							}
 , 																							{
 																								"key" : 9,
-																								"value" : [ "connaître" ]
+																								"value" : [ "to know" ]
 																							}
 , 																							{
 																								"key" : 10,
-																								"value" : [ "l'amour" ]
+																								"value" : [ "love" ]
 																							}
 , 																							{
 																								"key" : 11,
-																								"value" : [ "la poésie" ]
+																								"value" : [ "the poetry" ]
 																							}
 , 																							{
 																								"key" : 12,
-																								"value" : [ "le destin" ]
+																								"value" : [ "the destiny" ]
 																							}
 , 																							{
 																								"key" : 13,
-																								"value" : [ "la volonté" ]
+																								"value" : [ "the will" ]
 																							}
 , 																							{
 																								"key" : 14,
-																								"value" : [ "le pouvoir" ]
+																								"value" : [ "the power" ]
 																							}
 , 																							{
 																								"key" : 15,
-																								"value" : [ "le monde" ]
+																								"value" : [ "the world" ]
 																							}
 , 																							{
 																								"key" : 16,
-																								"value" : [ "le hasard" ]
+																								"value" : [ "chance" ]
 																							}
 , 																							{
 																								"key" : 17,
-																								"value" : [ "le mal" ]
+																								"value" : [ "evil" ]
 																							}
 , 																							{
 																								"key" : 18,
-																								"value" : [ "la morale" ]
+																								"value" : [ "morality" ]
 																							}
 , 																							{
 																								"key" : 19,
-																								"value" : [ "la réalité" ]
+																								"value" : [ "the", "reality" ]
 																							}
 , 																							{
 																								"key" : 20,
-																								"value" : [ "la pensée" ]
+																								"value" : [ "the", "toughts" ]
 																							}
 , 																							{
 																								"key" : 21,
-																								"value" : [ "la conscience" ]
+																								"value" : [ "consciousness" ]
 																							}
 , 																							{
 																								"key" : 22,
-																								"value" : [ "la passion" ]
+																								"value" : [ "passion" ]
 																							}
  ]
 																					}
@@ -37153,13 +37165,13 @@
 																					"numinlets" : 1,
 																					"numoutlets" : 4,
 																					"outlettype" : [ "", "", "", "" ],
-																					"patching_rect" : [ 50.0, 163.0, 235.0, 22.0 ],
+																					"patching_rect" : [ 50.0, 163.0, 257.0, 22.0 ],
 																					"saved_object_attributes" : 																					{
 																						"embed" : 1,
 																						"precision" : 6
 																					}
 ,
-																					"text" : "coll iagoKeyWordsWithArticles @embed 1"
+																					"text" : "coll iagoKeyWordsWithArticles_EN @embed 1"
 																				}
 
 																			}
@@ -39699,14 +39711,14 @@
 , 											{
 												"box" : 												{
 													"coll_data" : 													{
-														"count" : 22,
+														"count" : 23,
 														"data" : [ 															{
 																"key" : 0,
 																"value" : [ "the life" ]
 															}
 , 															{
 																"key" : 1,
-																"value" : [ "the death" ]
+																"value" : [ "death" ]
 															}
 , 															{
 																"key" : 2,
@@ -39734,11 +39746,15 @@
 															}
 , 															{
 																"key" : 8,
-																"value" : [ "the knowledge;\r9, to", "know'" ]
+																"value" : [ "the knowledge" ]
+															}
+, 															{
+																"key" : 9,
+																"value" : [ "to know" ]
 															}
 , 															{
 																"key" : 10,
-																"value" : [ "the love" ]
+																"value" : [ "love" ]
 															}
 , 															{
 																"key" : 11,
@@ -39762,31 +39778,31 @@
 															}
 , 															{
 																"key" : 16,
-																"value" : [ "the chance" ]
+																"value" : [ "chance" ]
 															}
 , 															{
 																"key" : 17,
-																"value" : [ "the evil" ]
+																"value" : [ "evil" ]
 															}
 , 															{
 																"key" : 18,
-																"value" : [ "the morality" ]
+																"value" : [ "morality" ]
 															}
 , 															{
 																"key" : 19,
-																"value" : [ "the reality" ]
+																"value" : [ "the", "reality" ]
 															}
 , 															{
 																"key" : 20,
-																"value" : [ "the thought" ]
+																"value" : [ "the", "toughts" ]
 															}
 , 															{
 																"key" : 21,
-																"value" : [ "the consciousness" ]
+																"value" : [ "consciousness" ]
 															}
 , 															{
 																"key" : 22,
-																"value" : [ "the passion" ]
+																"value" : [ "passion" ]
 															}
  ]
 													}
@@ -48343,10 +48359,10 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 811.5, 192.0, 293.0, 47.0 ],
+									"patching_rect" : [ 811.5, 192.0, 293.0, 60.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 3,
-									"presentation_rect" : [ 522.5, 81.0, 293.0, 47.0 ],
+									"presentation_rect" : [ 522.5, 81.0, 293.0, 60.0 ],
 									"text" : "OK : \nUSER_reco on peut parler de XXX\n IAGOTCHI_chatBot pourquoi tu veux parler de XXX\n"
 								}
 
@@ -48956,8 +48972,8 @@
 									"id" : "obj-15",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 3,
-									"outlettype" : [ "", "", "" ],
+									"numoutlets" : 2,
+									"outlettype" : [ "", "" ],
 									"patching_rect" : [ 330.0, 179.0, 141.0, 22.0 ],
 									"text" : "OSC-route /result /ready"
 								}
@@ -48968,8 +48984,8 @@
 									"id" : "obj-13",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 2,
-									"outlettype" : [ "", "" ],
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
 									"patching_rect" : [ 330.0, 147.0, 114.0, 22.0 ],
 									"text" : "OSC-route /chatbot"
 								}
@@ -49675,8 +49691,8 @@
 									"id" : "obj-7",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 3,
-									"outlettype" : [ "", "", "" ],
+									"numoutlets" : 2,
+									"outlettype" : [ "", "" ],
 									"patching_rect" : [ 252.0, 119.0, 141.0, 22.0 ],
 									"text" : "OSC-route /result /ready"
 								}
@@ -49687,8 +49703,8 @@
 									"id" : "obj-6",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 2,
-									"outlettype" : [ "", "" ],
+									"numoutlets" : 1,
+									"outlettype" : [ "" ],
 									"patching_rect" : [ 252.0, 82.0, 126.0, 22.0 ],
 									"text" : "OSC-route /generator"
 								}
@@ -52471,8 +52487,8 @@
 									"id" : "obj-27",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 3,
-									"outlettype" : [ "", "", "" ],
+									"numoutlets" : 2,
+									"outlettype" : [ "", "" ],
 									"patching_rect" : [ 37.0, 126.0, 162.0, 22.0 ],
 									"text" : "OSC-route /sentence /words"
 								}
@@ -52916,13 +52932,9 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "OSC-route.mxo",
-				"type" : "iLaX"
-			}
-, 			{
 				"name" : "adb.retune-2.amxd",
-				"bootpath" : "~/Desktop/IAGOSND",
-				"patcherrelativepath" : "../../../../Desktop/IAGOSND",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
+				"patcherrelativepath" : ".",
 				"type" : "amxd",
 				"implicit" : 1
 			}
@@ -52959,15 +52971,50 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "mxj.mxo",
-				"type" : "iLaX"
+				"name" : "iagoSleep.wav",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
+				"patcherrelativepath" : ".",
+				"type" : "WAVE",
+				"implicit" : 1
 			}
 , 			{
-				"name" : "sw.maxpat",
-				"bootpath" : "~/Documents/Max 8/Projects/SndGrains/patchers",
-				"patcherrelativepath" : "../../../Max 8/Projects/SndGrains/patchers",
-				"type" : "JSON",
+				"name" : "iagoSong1_Music.wav",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
+				"patcherrelativepath" : ".",
+				"type" : "WAVE",
 				"implicit" : 1
+			}
+, 			{
+				"name" : "iagoSong1_Vx.wav",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
+				"patcherrelativepath" : ".",
+				"type" : "WAVE",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "iagoSong2_Music.wav",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
+				"patcherrelativepath" : ".",
+				"type" : "WAVE",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "iagoSong2_Vx.wav",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
+				"patcherrelativepath" : ".",
+				"type" : "WAVE",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "iagoWake.wav",
+				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
+				"patcherrelativepath" : ".",
+				"type" : "WAVE",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "mxj.mxo",
+				"type" : "iLaX"
 			}
  ],
 		"autosave" : 0,
