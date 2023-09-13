@@ -4,3 +4,6 @@
 sendmidi dev "Gestionnaire IAC Bus 1" cc 3 127    
 
 osascript -e 'quit app "Live"'
+
+osascript -e 'quit app "Chrome"'
+
