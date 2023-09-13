@@ -209,7 +209,7 @@ class IAGOBOT:
             "Do you know a poem ?",
             "I will recite a poem, well, it's more like a haïku. It goes : Nothing could but the time.",
             "It's nice",
-            "It is by discussing light this that the meaning progresses.",
+            "It is by discussing like this that the meaning progresses.",
             "We are generators of meaning",
             "The meaning has no meaning",
             "Let's say I am your friend",
