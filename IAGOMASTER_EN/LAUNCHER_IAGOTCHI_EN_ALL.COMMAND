@@ -32,7 +32,6 @@ sleep 2
 
 echo opening IAGOGOTCHIPATCH
 open ../IAGOPATCH_EN/IAGOTCHI_EN.maxpat &
-open ../../IAGOSND/iagoSnd.maxpat &
 
 sleep 30
 
@@ -40,9 +39,9 @@ echo opening ASR webpage
 open -a "Google Chrome" 
 open http://localhost:8080
 
-#sleep 60
+sleep 30
 
-#echo opening IAGOCONSOLE
-#open ../IAGOCONSOLE/console/application.macosx/console.app &
+echo opening IAGOCONSOLE
+open ../IAGOCONSOLE/console/application.macosx/console.app &
 
 echo Done
