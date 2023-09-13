@@ -1,0 +1,18 @@
+20230913_151201 USER_reco hello
+20230913_151201 USER_name USER
+20230913_151201 IAGOTCHI_welcome wououaaaah I was waiting for you. Hello ?
+20230913_151255 IAGOTCHI_retalk Ooooooooooooooo.Aiaiaiaiaiaiaiaiaiai.
+20230913_151306 IAGOTCHI_welcome What's your name ?
+20230913_151310 USER_name how are you ?
+20230913_151310 IAGOTCHI_welcome You are how are you ? ? Hello how are you ?. Do you want to chat with me?
+20230913_151317 USER_chatbot how are you ?
+20230913_151320 IAGOTCHI_chatbot Maybe how about you ?
+20230913_151321 USER_chatbot how are you ?
+20230913_151322 IAGOTCHI_chatbot Are you ok ?
+20230913_151325 USER_chatbot how are you ?
+20230913_151326 IAGOTCHI_chatbot I wanna play
+20230913_151331 USER_chatbot how are you ?
+20230913_151333 IAGOTCHI_chatbot Could we raise a bit the conversation level ?
+20230913_151409 IAGOTCHI_retalk It seems you don't care about any of my thoughts but i need to feed on your words
+20230913_151448 IAGOTCHI_retalk It seems that this silence helped us both analyse the beginning of our conversation with more serenity. Let's go back to it no?
+20230913_151531 IAGOTCHI_retalk I see you appreciate silence.me too.
