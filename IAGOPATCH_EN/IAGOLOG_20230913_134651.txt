@@ -1,7 +1,0 @@
-20230913_134651 USER_reco hello
-20230913_134651 USER_name USER
-20230913_134651 IAGOTCHI_welcome wououaaaah I was waiting for you. Hello ?
-20230913_134721 IAGOTCHI_retalk It seems that this silence helped us both analyse the beginning of our conversation with more serenity. Let's go back to it no?
-20230913_135348 IAGOTCHI_keywordAction symbol bang
-20230913_135357 IAGOTCHI_keywordAction A choice is the range of different things from which a being can choose.
-20230913_135402 IAGOTCHI_keywordAction A choice is the range of different things from which a being can choose.

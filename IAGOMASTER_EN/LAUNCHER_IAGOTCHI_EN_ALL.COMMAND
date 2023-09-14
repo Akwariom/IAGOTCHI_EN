@@ -2,6 +2,10 @@
 
 cd $(dirname $0)
 
+echo waiting for computer to start completely
+
+sleep 180
+
 echo opening IAGORECO
 open ../IAGORECO_EN/LAUNCHER_IAGORECO_EN.COMMAND &
 
@@ -30,19 +34,15 @@ sleep 2
 #echo opening IAGOVOICE
 #open -na "Ableton Live 9 Suite" ../../IAGOVOIX/iagoVoix.als &
 
+echo opening ASR webpage
+open http://localhost:8080
+
+sleep 20
+
 echo opening IAGOGOTCHIPATCH
 open ../IAGOPATCH_EN/IAGOTCHI_EN.maxpat &
 
-sleep 30
-
-echo opening ASR webpage
-open -a "Google Chrome" 
-
-sleep 10
-
-open http://localhost:8080
-
-sleep 30
+sleep 20
 
 echo opening IAGOCONSOLE
 open ../IAGOCONSOLE/console/application.macosx/console.app &
