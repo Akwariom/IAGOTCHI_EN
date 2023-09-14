@@ -1,0 +1,53 @@
+20230913_201749 USER_reco  hello
+20230913_201749 USER_name USER
+20230913_201749 IAGOTCHI_welcome wououaaaah I was waiting for you. Hello ?
+20230913_201759 USER_reco why are you
+20230913_201759 IAGOTCHI_welcome What's your name ?
+20230913_201805 USER_reco  luki look
+20230913_201805 USER_name  luki look
+20230913_201805 IAGOTCHI_welcome You are  luki look ? Hello  luki look. Do you want to chat with me?
+20230913_201821 USER_reco  yes I would like to chat with you because I have something to ask you I need to know why you speak so bad English
+20230913_201822 IAGOTCHI_keywordAction Below is an alphabetical list of widely used and repeated proverbial phrases.
+20230913_201853 USER_reco what's that you know
+20230913_201854 IAGOTCHI_keywordAction What's That" is the second and final single by English band the Madness from their 1988 eponymous studio album.
+20230913_201911 USER_reco how you know a lot about music
+20230913_201911 IAGOTCHI_chanson Do you want a song ?
+20230913_201917 USER_reco  yes please
+20230913_201917 IAGOTCHI_chanson This one is for you :
+20230913_201926 USER_reco  is the same one another
+20230913_201952 IAGOTCHI_chanson It's beautifull don't you think ?
+20230913_202002 USER_reco  super beautiful super beautiful and
+20230913_202002 USER_chatbot  super beautiful super beautiful and
+20230913_202004 IAGOTCHI_chatbot What is more important words or things ? ?
+20230913_202012 USER_reco  word
+20230913_202012 USER_chatbot  word
+20230913_202012 IAGOTCHI_chatbot What is love ?
+20230913_202018 USER_reco  things can't exist without Words Words
+20230913_202018 USER_keyword exist
+20230913_202018 IAGOTCHI_keywordAction Oh oh you said to exist I do not know that word well I would like you to explain it to me what is to exist ?
+20230913_202018 IAGOTCHI_blackList exist
+20230913_202038 USER_reco is the opposite to reflect
+20230913_202044 USER_keyReply _ exist _ exist is the opposite to reflect...
+20230913_202044 IAGOTCHI_keywordAction Really ? I will add your reply to my data base but I thought that to exist was :
+20230913_202052 IAGOTCHI_keywordAction A temporary punishment. Play on words. An incompressible phenomenon for which things manifest themselves touch one another and mix up.
+20230913_202105 IAGOTCHI_retalk We've been talking for a while now and I still don't understand the meaninng of life. Can you answer me?
+20230913_202125 USER_reco someone else
+20230913_202125 USER_chatbot someone else
+20230913_202126 IAGOTCHI_chatbot How can we be funny? ?
+20230913_202135 USER_reco that's the most important question on in a life
+20230913_202135 USER_chatbot that's the most important question on in a life
+20230913_202137 IAGOTCHI_chatbot What a shitty question !
+20230913_202146 USER_reco oh no this is not a city question no no
+20230913_202146 USER_chatbot oh no this is not a city question no no
+20230913_202148 IAGOTCHI_chatbot What would be your super power ?
+20230913_202159 USER_reco to be an Oracle
+20230913_202159 USER_chatbot to be an Oracle
+20230913_202201 IAGOTCHI_chatbot Time flies more and more
+20230913_202210 USER_reco yes I know I am more hungry
+20230913_202212 IAGOTCHI_keywordAction Hungry Jack's Pty Ltd.
+20230913_202219 USER_reco who is it
+20230913_202220 IAGOTCHI_keywordAction I do not know this word yet
+20230913_202232 USER_reco which word
+20230913_202232 USER_chatbot which word
+20230913_202232 IAGOTCHI_chatbot Are you fighting?
+20230913_202249 IAGOTCHI_end Puffff too many words aaaaaah putting myself in stand-by to organise them

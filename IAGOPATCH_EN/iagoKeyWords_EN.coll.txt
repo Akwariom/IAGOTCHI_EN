@@ -6,8 +6,8 @@
 6, true;
 7, human;
 8, knowledge;
-9, to know;
-10,love;
+9, "to know";
+10, love;
 11, poetry;
 12, destiny;
 13, will;

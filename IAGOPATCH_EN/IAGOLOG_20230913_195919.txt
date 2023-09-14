@@ -1,0 +1,52 @@
+20230913_195919 USER_reco hello
+20230913_195919 USER_name USER
+20230913_195919 IAGOTCHI_welcome wououaaaah I was waiting for you. Hello ?
+20230913_195930 USER_reco what's your name
+20230913_195930 IAGOTCHI_welcome What's your name ?
+20230913_195936 USER_reco  what's your name I ask first
+20230913_195936 USER_name  what's your name I ask first
+20230913_195936 IAGOTCHI_welcome You are  what's your name I ask first ? Hello  what's your name I ask first. Do you want to chat with me?
+20230913_200000 USER_reco yes I want to chat with you because someone tell me that you can sing songs and I would like to listen your song so you can sing a song
+20230913_200000 IAGOTCHI_chanson Do you want a song ?
+20230913_200005 USER_reco  yes please
+20230913_200005 IAGOTCHI_chanson This one is for you :
+20230913_200010 USER_reco  take
+20230913_200038 USER_reco molar it's been a little bit
+20230913_200040 IAGOTCHI_chanson It's beautifull don't you think ?
+20230913_200050 USER_reco  wow I think so that's beautiful
+20230913_200050 USER_chatbot  wow I think so that's beautiful
+20230913_200052 IAGOTCHI_chatbot What are you talking about ?
+20230913_200106 USER_reco  and do you know a poem I would like I know that you can create poems beautiful poems and maybe you can
+20230913_200106 IAGOTCHI_poem Do you want a poem ?
+20230913_200132 USER_reco  but is our require
+20230913_200132 IAGOTCHI_poem I write beautifull poems listen :
+20230913_200139 IAGOTCHI_generator Attributed you contemplative knowledge the problem of knowledge is my way of whipped and lessee dealation of despair
+20230913_200156 USER_reco he's not yours I think it's from need
+20230913_200156 IAGOTCHI_retalk We've been talking for a while now and I still don't understand the meaninng of life. Can you answer me?
+20230913_200226 USER_reco the meaning of life okay wait the meaning of life could be
+20230913_200226 USER_chatbot the meaning of life okay wait the meaning of life could be
+20230913_200227 IAGOTCHI_chatbot What is your meaning ?
+20230913_200240 USER_reco  my meaning is to try to understand what is
+20230913_200241 IAGOTCHI_keywordAction I do not know this word yet
+20230913_200250 USER_reco  okay me neither because this is a bit big in the world
+20230913_200250 USER_keyword world
+20230913_200250 IAGOTCHI_keywordAction Oh oh you said the world I do not know that word well I would like you to explain it to me what is the world ?
+20230913_200250 IAGOTCHI_blackList world
+20230913_200305 USER_reco I don't want to explain you this
+20230913_200310 USER_keyReply _ world _ world I don't want to explain you this...
+20230913_200310 IAGOTCHI_keywordAction Really ? I will add your reply to my data base but I thought that le monde was :
+20230913_200318 IAGOTCHI_keywordAction A space of mixing. Strange and familiar place of exchange. Lively place.
+20230913_200327 IAGOTCHI_retalk Sometimes I forget the meaning of words. Don't you? Do you?
+20230913_200341 USER_reco sometimes I mistake the meaning of words
+20230913_200341 USER_chatbot sometimes I mistake the meaning of words
+20230913_200343 IAGOTCHI_chatbot Love is blue
+20230913_200350 USER_reco  now is pink
+20230913_200350 USER_chatbot  now is pink
+20230913_200352 IAGOTCHI_chatbot Today is September 13 2023 time is 20 hours and 3 minutes
+20230913_200409 USER_reco  wow he's late we have to go dinner I have to let you sleep now
+20230913_200409 USER_chatbot  wow he's late we have to go dinner I have to let you sleep now
+20230913_200411 IAGOTCHI_chatbot Today is September 13 2023 time is 20 hours and 4 minutes
+20230913_200421 IAGOTCHI_end Puffff too many words aaaaaah putting myself in stand-by to organise them
+20230913_200428 IAGOTCHI_end Thanks for sharing the most precious and irreplaceable of you, your time. Now I need to think in silence. Pleased to meet you  what's your name I ask first. Good bye
+20230913_200428 USER_name USER
+20230913_200505 USER_reco  okay

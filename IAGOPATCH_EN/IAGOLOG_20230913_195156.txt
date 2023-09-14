@@ -1,0 +1,13 @@
+20230913_195156 USER_reco hello hello
+20230913_195156 USER_name USER
+20230913_195156 IAGOTCHI_welcome wououaaaah I was waiting for you. Hello ?
+20230913_195210 USER_reco goodbye
+20230913_195210 IAGOTCHI_welcome What's your name ?
+20230913_195217 USER_reco  goodbye
+20230913_195217 USER_name  goodbye
+20230913_195217 IAGOTCHI_welcome You are  goodbye ? Hello  goodbye. Do you want to chat with me?
+20230913_195227 USER_reco  and look good bye no I want to leave you
+20230913_195227 IAGOTCHI_end Are you leaving ? Well...
+20230913_195230 IAGOTCHI_end Thanks for your words  goodbye. Talk to you soon
+20230913_195230 USER_name USER
+20230913_195306 IAGOTCHI_retalk I think poetry will save the world. Don't you?

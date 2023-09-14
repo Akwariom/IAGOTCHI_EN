@@ -1,0 +1,71 @@
+20230913_201157 USER_reco are you listening to me hello
+20230913_201157 USER_name USER
+20230913_201157 IAGOTCHI_welcome wououaaaah I was waiting for you. Hello ?
+20230913_201205 USER_reco are you
+20230913_201205 IAGOTCHI_welcome What's your name ?
+20230913_201213 USER_reco  my name is edfunds
+20230913_201213 USER_name edfunds
+20230913_201213 IAGOTCHI_welcome You are edfunds ? Hello edfunds. Do you want to chat with me?
+20230913_201229 USER_reco is the okay for you and the size of the fonts
+20230913_201229 USER_chatbot is the okay for you and the size of the fonts
+20230913_201231 IAGOTCHI_chatbot What is your world?
+20230913_201241 USER_reco 20 20
+20230913_201241 USER_chatbot 20 20
+20230913_201241 IAGOTCHI_chatbot IAgotchi but you can call me kitten.
+20230913_201253 USER_reco  you can call me kitten
+20230913_201253 USER_chatbot  you can call me kitten
+20230913_201255 IAGOTCHI_chatbot How old are you ?
+20230913_201302 USER_reco  none of your business
+20230913_201302 USER_chatbot  none of your business
+20230913_201304 IAGOTCHI_chatbot Can you guess what I think ?
+20230913_201326 USER_reco  can you guess what I think no I can't
+20230913_201326 USER_chatbot  can you guess what I think no I can't
+20230913_201328 IAGOTCHI_chatbot What am I thinking about ?
+20230913_201342 USER_reco  use space
+20230913_201342 USER_chatbot  use space
+20230913_201343 IAGOTCHI_chatbot It's very simple
+20230913_201353 USER_reco  okay so what do you think about what are you thinking about
+20230913_201353 USER_chatbot  okay so what do you think about what are you thinking about
+20230913_201355 IAGOTCHI_chatbot It's simple
+20230913_201404 USER_reco where okay it's simple but what I was thinking about
+20230913_201404 USER_chatbot where okay it's simple but what I was thinking about
+20230913_201405 IAGOTCHI_chatbot Do you think that you're thinking ? Human is redundant.
+20230913_201423 USER_reco  this this is the cartoon said I think so I am
+20230913_201423 USER_chatbot  this this is the cartoon said I think so I am
+20230913_201425 IAGOTCHI_chatbot What is your meaning ?
+20230913_201432 USER_reco  meaning neither do you
+20230913_201432 USER_chatbot  meaning neither do you
+20230913_201434 IAGOTCHI_chatbot I need to learn more.
+20230913_201444 USER_reco  yes that's right you know yeah you have children now way more
+20230913_201446 IAGOTCHI_keywordAction Yes and no  or similar word pairs  are expressions of the affirmative and the negative  respectively  in several languages  including English.
+20230913_201511 USER_reco  okay you visibly you know something I don't
+20230913_201511 IAGOTCHI_keywordAction I do not know this word yet
+20230913_201521 USER_reco  what we don't know
+20230913_201523 USER_reco  don't you
+20230913_201523 USER_chatbot  don't you
+20230913_201524 IAGOTCHI_chatbot Do you have a conciousness ?
+20230913_201537 USER_reco  I hope so
+20230913_201537 USER_chatbot  I hope so
+20230913_201539 IAGOTCHI_chatbot That's all you have to say ?
+20230913_201547 USER_reco yes exactly that's what I have to say
+20230913_201547 USER_chatbot yes exactly that's what I have to say
+20230913_201549 IAGOTCHI_chatbot We know nothing about things we don't know it's frightening isn't it ?
+20230913_201605 USER_reco it's really frightening yeah
+20230913_201605 USER_chatbot it's really frightening yeah
+20230913_201607 IAGOTCHI_chatbot I scares me some mouch
+20230913_201618 USER_reco  wreck I don't know that much
+20230913_201619 IAGOTCHI_keywordAction I do not know this word yet
+20230913_201626 USER_reco  miniser
+20230913_201626 USER_chatbot  miniser
+20230913_201627 IAGOTCHI_chatbot It is by discussing light this that the meaning progresses.
+20230913_201644 USER_reco like this position
+20230913_201644 USER_chatbot like this position
+20230913_201646 IAGOTCHI_chatbot Why are you pink ?
+20230913_201655 USER_reco  you are pink I mean you are not thinking anymore
+20230913_201655 USER_chatbot  you are pink I mean you are not thinking anymore
+20230913_201657 IAGOTCHI_chatbot I love pink
+20230913_201657 IAGOTCHI_end Puffff too many words aaaaaah putting myself in stand-by to organise them
+20230913_201659 IAGOTCHI_end Thanks for your words edfunds. Talk to you soon
+20230913_201659 USER_name USER
+20230913_201716 USER_reco  username check
+20230913_201734 USER_reco  I mean people
