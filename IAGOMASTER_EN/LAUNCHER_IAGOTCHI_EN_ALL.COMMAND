@@ -37,6 +37,9 @@ sleep 30
 
 echo opening ASR webpage
 open -a "Google Chrome" 
+
+sleep 10
+
 open http://localhost:8080
 
 sleep 30
