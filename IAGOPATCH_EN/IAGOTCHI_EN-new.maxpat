@@ -102,6 +102,7 @@
 									"offset" : [ 0.0, 0.0 ],
 									"outlettype" : [ "signal", "signal", "", "" ],
 									"patching_rect" : [ 186.0, 260.0, 299.5, 196.0 ],
+									"presentation_linecount" : 2,
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
 											"parameter_invisible" : 1,
@@ -10151,7 +10152,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
-													"text" : "20230922_144555"
+													"text" : "20230922_144133"
 												}
 
 											}
@@ -50055,8 +50056,12 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "bang" ],
-									"patching_rect" : [ 188.0, 443.0, 43.0, 22.0 ],
-									"text" : "h.shell"
+									"patching_rect" : [ 188.0, 443.0, 33.0, 22.0 ],
+									"saved_object_attributes" : 									{
+										"shell" : "(default)"
+									}
+,
+									"text" : "shell"
 								}
 
 							}
@@ -51019,8 +51024,12 @@
 									"numinlets" : 1,
 									"numoutlets" : 2,
 									"outlettype" : [ "", "bang" ],
-									"patching_rect" : [ 142.0, 443.0, 43.0, 22.0 ],
-									"text" : "h.shell"
+									"patching_rect" : [ 142.0, 443.0, 33.0, 22.0 ],
+									"saved_object_attributes" : 									{
+										"shell" : "(default)"
+									}
+,
+									"text" : "shell"
 								}
 
 							}
@@ -52978,10 +52987,6 @@
 				"type" : "iLaX"
 			}
 , 			{
-				"name" : "h.shell.mxo",
-				"type" : "iLaX"
-			}
-, 			{
 				"name" : "iagoKeyWordsWithArticles_EN.coll.txt",
 				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
 				"patcherrelativepath" : ".",
@@ -53039,6 +53044,10 @@
 			}
 , 			{
 				"name" : "mxj.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "shell.mxo",
 				"type" : "iLaX"
 			}
  ],
