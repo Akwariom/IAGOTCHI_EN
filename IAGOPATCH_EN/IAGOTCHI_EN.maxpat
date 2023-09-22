@@ -102,6 +102,7 @@
 									"offset" : [ 0.0, 0.0 ],
 									"outlettype" : [ "signal", "signal", "", "" ],
 									"patching_rect" : [ 186.0, 260.0, 299.5, 196.0 ],
+									"presentation_linecount" : 2,
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
 											"parameter_invisible" : 1,
@@ -379,8 +380,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 268.308594000000028, 245.299194, 93.0, 22.0 ],
-													"text" : "\"Built-in Output\""
+													"patching_rect" : [ 268.308594000000028, 245.299194, 150.0, 22.0 ],
+													"text" : "\"Wireless Stereo Headset\""
 												}
 
 											}
@@ -4287,8 +4288,8 @@
 									"linecount" : 2,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 3,
-									"outlettype" : [ "", "", "" ],
+									"numoutlets" : 4,
+									"outlettype" : [ "", "", "", "" ],
 									"patching_rect" : [ 205.0, 135.0, 107.0, 35.0 ],
 									"text" : "OSC-route /result /noresult /ready"
 								}
@@ -4311,8 +4312,8 @@
 									"id" : "obj-5",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"numoutlets" : 2,
+									"outlettype" : [ "", "" ],
 									"patching_rect" : [ 205.0, 92.0, 95.0, 22.0 ],
 									"text" : "OSC-route /wiki"
 								}
@@ -10151,7 +10152,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
-													"text" : "20230913_202153"
+													"text" : "20230922_144133"
 												}
 
 											}
@@ -10838,7 +10839,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-2",
@@ -20588,7 +20588,7 @@
 								"box" : 								{
 									"bgcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
 									"bordercolor" : [ 0.239216, 0.254902, 0.278431, 1.0 ],
-									"cols" : 3,
+									"cols" : 2,
 									"fontface" : 0,
 									"fontname" : "Arial",
 									"fontsize" : 12.0,
@@ -23177,7 +23177,7 @@
 											}
 , 											{
 												"box" : 												{
-													"cols" : 3,
+													"cols" : 2,
 													"fontface" : 0,
 													"fontname" : "Arial",
 													"fontsize" : 12.0,
@@ -23368,7 +23368,7 @@
 															}
 , 															{
 																"key" : 9,
-																"value" : [ "to", "know" ]
+																"value" : [ "to know" ]
 															}
 , 															{
 																"key" : 10,
@@ -23583,7 +23583,7 @@
 															}
 , 															{
 																"key" : 9,
-																"value" : [ "to", "know" ]
+																"value" : [ "to know" ]
 															}
 , 															{
 																"key" : 10,
@@ -28886,7 +28886,7 @@
 																			}
 , 																			{
 																				"key" : 9,
-																				"value" : [ "to", "know" ]
+																				"value" : [ "to know" ]
 																			}
 , 																			{
 																				"key" : 10,
@@ -29233,7 +29233,7 @@
 																			}
 , 																			{
 																				"key" : 9,
-																				"value" : [ "to", "know" ]
+																				"value" : [ "to know" ]
 																			}
 , 																			{
 																				"key" : 10,
@@ -31141,7 +31141,7 @@
 															}
 , 															{
 																"key" : 9,
-																"value" : [ "to", "know" ]
+																"value" : [ "to know" ]
 															}
 , 															{
 																"key" : 10,
@@ -43602,7 +43602,7 @@
 															}
 , 															{
 																"key" : 9,
-																"value" : [ "to", "know" ]
+																"value" : [ "to know" ]
 															}
 , 															{
 																"key" : 10,
@@ -43988,7 +43988,7 @@
 																							}
 , 																							{
 																								"key" : 9,
-																								"value" : [ "to", "know" ]
+																								"value" : [ "to know" ]
 																							}
 , 																							{
 																								"key" : 10,
@@ -44111,7 +44111,7 @@
 																							}
 , 																							{
 																								"key" : 9,
-																								"value" : [ "to", "know" ]
+																								"value" : [ "to know" ]
 																							}
 , 																							{
 																								"key" : 10,
@@ -44427,7 +44427,7 @@
 																							}
 , 																							{
 																								"key" : 9,
-																								"value" : [ "to", "know" ]
+																								"value" : [ "to know" ]
 																							}
 , 																							{
 																								"key" : 10,
@@ -48971,8 +48971,8 @@
 									"id" : "obj-15",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 2,
-									"outlettype" : [ "", "" ],
+									"numoutlets" : 3,
+									"outlettype" : [ "", "", "" ],
 									"patching_rect" : [ 330.0, 179.0, 141.0, 22.0 ],
 									"text" : "OSC-route /result /ready"
 								}
@@ -48983,8 +48983,8 @@
 									"id" : "obj-13",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"numoutlets" : 2,
+									"outlettype" : [ "", "" ],
 									"patching_rect" : [ 330.0, 147.0, 114.0, 22.0 ],
 									"text" : "OSC-route /chatbot"
 								}
@@ -49690,8 +49690,8 @@
 									"id" : "obj-7",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 2,
-									"outlettype" : [ "", "" ],
+									"numoutlets" : 3,
+									"outlettype" : [ "", "", "" ],
 									"patching_rect" : [ 252.0, 119.0, 141.0, 22.0 ],
 									"text" : "OSC-route /result /ready"
 								}
@@ -49702,8 +49702,8 @@
 									"id" : "obj-6",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 1,
-									"outlettype" : [ "" ],
+									"numoutlets" : 2,
+									"outlettype" : [ "", "" ],
 									"patching_rect" : [ 252.0, 82.0, 126.0, 22.0 ],
 									"text" : "OSC-route /generator"
 								}
@@ -50051,6 +50051,22 @@
 						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
+									"id" : "obj-34",
+									"maxclass" : "newobj",
+									"numinlets" : 1,
+									"numoutlets" : 2,
+									"outlettype" : [ "", "bang" ],
+									"patching_rect" : [ 188.0, 443.0, 33.0, 22.0 ],
+									"saved_object_attributes" : 									{
+										"shell" : "(default)"
+									}
+,
+									"text" : "shell"
+								}
+
+							}
+, 							{
+								"box" : 								{
 									"id" : "obj-39",
 									"maxclass" : "message",
 									"numinlets" : 2,
@@ -50093,7 +50109,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 290.0, 221.0, 356.0, 22.0 ],
+									"patching_rect" : [ 290.0, 221.0, 349.0, 35.0 ],
 									"text" : "\"A choice is the range of different things from which a being can choose. \""
 								}
 
@@ -51007,9 +51023,13 @@
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 2,
-									"outlettype" : [ "", "" ],
-									"patching_rect" : [ 142.0, 443.0, 45.0, 22.0 ],
-									"text" : "h.shell"
+									"outlettype" : [ "", "bang" ],
+									"patching_rect" : [ 142.0, 443.0, 33.0, 22.0 ],
+									"saved_object_attributes" : 									{
+										"shell" : "(default)"
+									}
+,
+									"text" : "shell"
 								}
 
 							}
@@ -51136,7 +51156,7 @@
 							}
 , 							{
 								"patchline" : 								{
-									"destination" : [ "obj-16", 0 ],
+									"destination" : [ "obj-34", 0 ],
 									"source" : [ "obj-17", 0 ]
 								}
 
@@ -51326,6 +51346,13 @@
 									"destination" : [ "obj-42", 1 ],
 									"order" : 0,
 									"source" : [ "obj-40", 0 ]
+								}
+
+							}
+, 							{
+								"patchline" : 								{
+									"destination" : [ "obj-35", 0 ],
+									"source" : [ "obj-42", 0 ]
 								}
 
 							}
@@ -52486,8 +52513,8 @@
 									"id" : "obj-27",
 									"maxclass" : "newobj",
 									"numinlets" : 1,
-									"numoutlets" : 2,
-									"outlettype" : [ "", "" ],
+									"numoutlets" : 3,
+									"outlettype" : [ "", "", "" ],
 									"patching_rect" : [ 37.0, 126.0, 162.0, 22.0 ],
 									"text" : "OSC-route /sentence /words"
 								}
@@ -52931,6 +52958,10 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "OSC-route.mxo",
+				"type" : "iLaX"
+			}
+, 			{
 				"name" : "adb.retune-2.amxd",
 				"bootpath" : "~/Documents/workspace/IAGOTCHI_EN/IAGOPATCH_EN",
 				"patcherrelativepath" : ".",
@@ -53013,6 +53044,10 @@
 			}
 , 			{
 				"name" : "mxj.mxo",
+				"type" : "iLaX"
+			}
+, 			{
+				"name" : "shell.mxo",
 				"type" : "iLaX"
 			}
  ],
