@@ -102,6 +102,7 @@
 									"offset" : [ 0.0, 0.0 ],
 									"outlettype" : [ "signal", "signal", "", "" ],
 									"patching_rect" : [ 186.0, 260.0, 299.5, 196.0 ],
+									"presentation_linecount" : 2,
 									"saved_attribute_attributes" : 									{
 										"valueof" : 										{
 											"parameter_invisible" : 1,
@@ -326,6 +327,18 @@
 										"assistshowspatchername" : 0,
 										"boxes" : [ 											{
 												"box" : 												{
+													"id" : "obj-21",
+													"maxclass" : "newobj",
+													"numinlets" : 2,
+													"numoutlets" : 1,
+													"outlettype" : [ "" ],
+													"patching_rect" : [ 161.474853999999993, 472.149596999999972, 61.0, 22.0 ],
+													"text" : "pipe 2000"
+												}
+
+											}
+, 											{
+												"box" : 												{
 													"comment" : "",
 													"id" : "obj-20",
 													"index" : 1,
@@ -343,7 +356,7 @@
 													"numinlets" : 1,
 													"numoutlets" : 1,
 													"outlettype" : [ "int" ],
-													"patching_rect" : [ 150.0, 476.0, 24.0, 22.0 ],
+													"patching_rect" : [ 147.0, 510.0, 24.0, 22.0 ],
 													"text" : "t 1"
 												}
 
@@ -427,8 +440,8 @@
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "bang" ],
-													"patching_rect" : [ 129.474853999999993, 41.0, 69.0, 22.0 ],
-													"text" : "delay 3000"
+													"patching_rect" : [ 129.474853999999993, 41.0, 67.0, 22.0 ],
+													"text" : "delay 4000"
 												}
 
 											}
@@ -459,13 +472,12 @@
 , 											{
 												"box" : 												{
 													"id" : "obj-6",
-													"linecount" : 3,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 73.308594000000028, 227.098403999999988, 50.0, 49.0 ],
-													"text" : "\"Soundflower (2ch)\""
+													"patching_rect" : [ 73.308594000000028, 227.098403999999988, 102.0, 22.0 ],
+													"text" : "\"BlackHole (2ch)\""
 												}
 
 											}
@@ -954,12 +966,11 @@
 , 											{
 												"box" : 												{
 													"id" : "obj-2",
-													"linecount" : 2,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
-													"patching_rect" : [ 442.308609000000047, 164.846420999999935, 50.0, 35.0 ],
+													"patching_rect" : [ 442.308609000000047, 164.846420999999935, 76.0, 22.0 ],
 													"text" : "\"Core Audio\""
 												}
 
@@ -1007,7 +1018,7 @@
  ],
 										"lines" : [ 											{
 												"patchline" : 												{
-													"destination" : [ "obj-19", 0 ],
+													"destination" : [ "obj-21", 0 ],
 													"source" : [ "obj-1", 0 ]
 												}
 
@@ -1107,6 +1118,13 @@
 												"patchline" : 												{
 													"destination" : [ "obj-5", 0 ],
 													"source" : [ "obj-2", 0 ]
+												}
+
+											}
+, 											{
+												"patchline" : 												{
+													"destination" : [ "obj-19", 0 ],
+													"source" : [ "obj-21", 0 ]
 												}
 
 											}
@@ -10151,7 +10169,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 113.0, 379.0, 169.0, 22.0 ],
-													"text" : "20230922_144555"
+													"text" : "20230922_145106"
 												}
 
 											}
@@ -22087,8 +22105,7 @@
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 111.0, 489.859069999999974, 50.0, 22.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 293.5, 523.75, 41.0, 22.0 ],
-									"text" : "0"
+									"presentation_rect" : [ 293.5, 523.75, 41.0, 22.0 ]
 								}
 
 							}
